@@ -4,7 +4,7 @@
 - 🌱 Skills & Interests:
    - Exploring and working across frontend and backend technologies
    - Building clean, responsive, and user-friendly designs.
-   - Knowledgeable about Api Integration, cross-browser compatibility and optimizing web performance.
+   - Knowledgeable about API Integration, cross-browser compatibility and optimizing web performance.
    - Enthusiastic about experimenting with new tools and technologies like Webpack, Vite, and Figma for design collaboration.
 - 💞️ Open to Collaborations: Let’s team up and create something amazing together!
 - 📫 Find Me On: https://www.linkedin.com/in/anupriya-kumari-1473171a5/
