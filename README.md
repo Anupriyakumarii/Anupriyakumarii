@@ -2,7 +2,7 @@
 - 😄 Pronouns: She/Her
 - 👀 Passionate About: Frontend Development
 - 🌱 Skills & Interests:
-   - Exploring and working across frontend and backend technologies
+   - Exploring and working across frontend and backend technologies.
    - Building clean, responsive, and user-friendly designs.
    - Knowledgeable about API Integration, cross-browser compatibility and optimizing web performance.
    - Enthusiastic about experimenting with new tools and technologies like Webpack, Vite, and Figma for design collaboration.
