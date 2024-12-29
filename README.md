@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anupriya Kumari!
 - 😄 Pronouns: She/Her
-- 👀 Passionate About: Frontend Development
+- 👀 Passionate About: Frontend Development!
 - 🌱 Skills & Interests:
    - Exploring and working across frontend and backend technologies.
    - Building clean, responsive, and user-friendly designs.
